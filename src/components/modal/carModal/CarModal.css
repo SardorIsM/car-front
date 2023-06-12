@@ -1,0 +1,23 @@
+.car_modal {
+    width: 800px;
+    position: fixed;
+    top: 80px;
+    left: -100%;
+    z-index: 10;
+    background-color: #fff;
+    border-radius: 10px;
+    overflow: auto;
+    padding: 30px;
+}
+
+.car_modalActive {
+    left: 20%;
+}
+
+.carModal_wrapper {
+    display: flex;
+}
+
+.carModals_btn {
+    display: inline-block;
+}

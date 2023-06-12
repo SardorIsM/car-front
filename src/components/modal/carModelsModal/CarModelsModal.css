@@ -1,0 +1,15 @@
+.carModels_modal {
+    width: 500px;
+    position: fixed;
+    top: 80px;
+    left: -100%;
+    z-index: 10;
+    background-color: #fff;
+    border-radius: 10px;
+    overflow: auto;
+    padding: 30px;
+}
+
+.carModels_modalActive {
+    left: 30%;
+}

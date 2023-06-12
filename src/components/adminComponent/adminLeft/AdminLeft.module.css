@@ -1,0 +1,21 @@
+.container {
+    padding: 140px 0 20px 36px;
+    height: 100vh;
+    border-right: 1px solid #E3E3E3;
+}
+
+.home {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.home_icon {
+    color: black;
+    font-size: 24px;
+    margin-right: 10px;
+}
+
+.home_title {
+    color: black;
+    font-size: 20px;
+}
